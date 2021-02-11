@@ -63,11 +63,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * After everything has been saved, create a sharable link and 
 
 
-![vba_1](Images/vba_1.png)
+Images/vba_1.png
 
-![vba_2](Images/vba_2.png)
-
-![vba_3](Images/vba_3.png)
+Images/vba_2.png
+Images/vba_3.png
 
 submit that to <https://bootcampspot-v2.com/>.
 
