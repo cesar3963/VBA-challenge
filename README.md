@@ -58,7 +58,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
   * A screen shot for each year of your results on the Multi Year Stock Data.
 
-![Solution's](Images/vba_1.png, Images/vba_2.png)
+![Solution's](Images/vba_1.png)
 
   * VBA Scripts as separate files.
 
