@@ -62,15 +62,17 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * After everything has been saved, create a sharable link and 
 
-
-Images/vba_1.png
-
-Images/vba_2.png
-Images/vba_3.png
-
 submit that to <https://bootcampspot-v2.com/>.
 
 - - -
+
+## Screen Shots 
+
+![vba_1](screenshots/vba_1.png)
+
+![vba_2](screenshots/vba_2.png)
+
+![vba_3](screenshots/vba_3.png)
 
 ### Copyright
 
