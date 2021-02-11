@@ -60,6 +60,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![Solution's](Images/vba_1.png)
 
+![Solution's](Images/vba_2.png)
+
+![Solution's](Images/vba_3.png)
+
   * VBA Scripts as separate files.
 
 * After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
