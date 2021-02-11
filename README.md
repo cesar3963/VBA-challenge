@@ -42,7 +42,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![hard_solution](Images/hard_solution.png)
+![hard_solution](Images/vba_1.png)
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
