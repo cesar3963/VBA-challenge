@@ -42,7 +42,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![hard_solution](Images/vba_1.png)
+![hard_solution](Images/hard_solution.png)
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
@@ -63,11 +63,11 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * After everything has been saved, create a sharable link and 
 
 
-![Solution's](Images/vba_1.png)
+![vba_1](Images/vba_1.png)
 
-![Solution's](Images/vba_2.png)
+![vba_2](Images/vba_2.png)
 
-![Solution's](Images/vba_3.png)
+![vba_3](Images/vba_3.png)
 
 submit that to <https://bootcampspot-v2.com/>.
 
